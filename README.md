@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! My name is Abir and I'm a ..., from  Bangladesh</h2>
+<h2 align="left">Hi ! My name is Abir and I'm from  Bangladesh</h2>
 
 ###
 
