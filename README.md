@@ -35,6 +35,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abirhosenakram/abirhosenakram/output/snake.svg" alt="Snake" />
-
 ###
