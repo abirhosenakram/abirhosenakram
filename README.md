@@ -38,4 +38,3 @@
 <img src="https://raw.githubusercontent.com/abirhosenakram/abirhosenakram/output/snake.svg" alt="Snake animation" />
 
 ###
-![Snake animation](https://github.com/abirhosenakram/abirhosenakram/blob/output/snake.svg)
