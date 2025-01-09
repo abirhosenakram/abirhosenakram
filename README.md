@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/3rNn.gif" width="100%" alt="Cover GIF">
 </div>
 
-# Hi, I'm Abir
+# Hi, I'm Abir 👋
 **Student of Computer Science and Technology**  
 📍 **Rangpur, Dhaka, Bangladesh**  
 
@@ -53,12 +53,12 @@ I focus on creating impactful projects and learning continuously to solve real-w
 
 ### 🏆 Achievements
 - 🔐 Cybersecurity enthusiast  
-- 🤖 Skilled in using AI 
-- 🖥️ Learning programming 
+- 🤖 AI Prompt Expert  
+- 🖥️ Skilled in creating simple projects like calculators and converters  
 - 🌟 Always eager to learn and improve  
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abirhosenakram.abirhosenakram" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=abirhosenakram&style=flat-square&color=blue" alt="Visitors">
 </div>
