@@ -54,7 +54,6 @@ I focus on creating impactful projects and learning continuously to solve real-w
 ### 🏆 Achievements
 - 🔐 Cybersecurity enthusiast  
 - 🤖 AI Prompt Expert  
-- 🖥️ Skilled in creating simple projects like calculators and converters  
 - 🌟 Always eager to learn and improve  
 
 ---
