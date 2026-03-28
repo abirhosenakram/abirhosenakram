@@ -73,19 +73,18 @@ timezone   : 🕐 UTC +06:00
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abirhosenakram&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhosenakram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abirhosenakram&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" width="100%" style="max-width:700px"/>
+<img src="https://streak-stats.demolab.com/?user=abirhosenakram&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" height="165"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activities
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abirhosenakram&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abirhosenakram&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
 </div>
 
 ---
