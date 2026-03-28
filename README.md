@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Prompt+Engineering+Lover;💻+Computer+Science+Student;🌟+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Code first,then breath;Always learning,always growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,8 +27,8 @@
 ```yaml
 name       : Abir Hosen Akram
 location   : 📍 Rangpur, Dhaka, Bangladesh
-education  : 🎓 Student of Computer Science & Technology
-focus      : 🔐 Cybersecurity | 🤖 AI & Prompt Engineering
+education  : 🎓 Student of Computer Science & Technology at Rangpur Polytechnic Institute
+focus      : 🛠 Development & 🛡 Security
 status     : 🚀 Building impactful projects & learning continuously
 timezone   : 🕐 UTC +06:00
 ```
@@ -54,7 +54,6 @@ timezone   : 🕐 UTC +06:00
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
