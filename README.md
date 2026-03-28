@@ -79,12 +79,13 @@ timezone   : 🕐 UTC +06:00
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activities
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abirhosenakram&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
-</div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abirhosenakram&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+
+</div>
 ---
 
 ## 🎯 Areas of Interest
