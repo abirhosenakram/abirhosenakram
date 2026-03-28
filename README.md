@@ -1,63 +1,141 @@
 <div align="center">
-  <img src="https://i.gifer.com/3rNn.gif" width="100%" alt="Cover GIF">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abir%20Hosen%20Akram&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Cybersecurity%20Enthusiast&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Prompt+Engineering+Lover;💻+Computer+Science+Student;🌟+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abirhosenakram&label=Profile+Views&color=58a6ff&style=flat-square" alt="profile views"/>
+  <a href="https://github.com/abirhosenakram?tab=followers">
+    <img src="https://img.shields.io/github/followers/abirhosenakram?label=Followers&style=flat-square&color=58a6ff" alt="followers"/>
+  </a>
+</p>
+
 </div>
 
-# Hi, I'm Abir 👋
-**Student of Computer Science and Technology**  
-📍 **Rangpur, Dhaka, Bangladesh**  
+---
 
-I am passionate about **technology, cybersecurity, and programming**.  
-I focus on creating impactful projects and learning continuously to solve real-world problems.
+## 👨‍💻 About Me
+
+```yaml
+name       : Abir Hosen Akram
+location   : 📍 Rangpur, Dhaka, Bangladesh
+education  : 🎓 Student of Computer Science & Technology
+focus      : 🔐 Cybersecurity | 🤖 AI & Prompt Engineering
+status     : 🚀 Building impactful projects & learning continuously
+timezone   : 🕐 UTC +06:00
+```
+
+> *"Passionate about technology, cybersecurity, and programming — driven to solve real-world problems."*
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 Currently working on **impactful open-source projects**
+- 🌱 Deepening my knowledge in **Cybersecurity & AI**
+- 🤖 Exploring **Prompt Engineering** and **AI tools**
+- 💡 Always eager to **learn, build, and improve**
+- 🤝 Open to **collaborations** on interesting projects
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Cybersecurity & AI**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abirhosenakram&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhosenakram&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abirhosenakram&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" width="100%" style="max-width:700px"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abirhosenakram&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+</div>
+
+---
+
+## 🎯 Areas of Interest
+
+<div align="center">
+
+| 🔐 Cybersecurity | 🤖 AI & ML | 💻 Programming | 🌐 Web Dev |
+|:---:|:---:|:---:|:---:|
+| Ethical Hacking | Prompt Engineering | Problem Solving | HTML/CSS/JS |
+| Network Security | AI Tools | Algorithms | Responsive Design |
+| CTF Challenges | LLMs | Open Source | Projects |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-abirhosenakram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abirhosenakram)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirhosen281@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abirhosenakram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirhosenakram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
 
----
+### 💬 A Quote I Live By
 
-### 🛠 Skills
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <span style="font-size: 18px; font-weight: bold;">🤖 AI Prompt Expert</span>
-</div>
+> *"The more I learn, the more I realize how much I don't know."* — Albert Einstein
 
----
+<br/>
 
-### 🌐 Connect with Me
-<div align="left">
-  <a href="https://www.facebook.com/profile.php.Abir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
-  <a href="mailto:abirhosenakram60@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/8801331982805" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/unauthorisedusr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
-  </a>
-</div>
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirhosenakram/abirhosenakram/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirhosenakram/abirhosenakram/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abirhosenakram/abirhosenakram/output/github-snake.svg">
+</picture>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
-### 🏆 Achievements
-- 🔐 Cybersecurity enthusiast  
-- 🤖 AI Prompt Expert  
-- 🌟 Always eager to learn and improve  
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abirhosenakram&style=flat-square&color=blue" alt="Visitors">
 </div>
